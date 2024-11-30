@@ -50,8 +50,8 @@ Welcome to my portfolio! I am a frontend developer specializing in React. Below 
 
 Feel free to reach out to me via the following platforms:
 
-- **Email:** [![Email](https://img.shields.io/badge/-rzavalaga@unsa.edu.pe-D14836?style=flat&logo=gmail&logoColor=white)](mailto:rzavalaga@unsa.edu.pe)
-- **LinkedIn:** [![LinkedIn](https://img.shields.io/badge/-Rushell%20Zavalaga-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rushell-vanessa-zavalaga-orozco-0614351ba/)
-- **GitHub:** [![GitHub](https://img.shields.io/badge/-Rushh-181717?style=flat&logo=github&logoColor=white)](https://github.com/RushhMax)
+[![Email](https://img.shields.io/badge/-rzavalaga@unsa.edu.pe-D14836?style=flat&logo=gmail&logoColor=white)](mailto:rzavalaga@unsa.edu.pe)
+[![LinkedIn](https://img.shields.io/badge/-Rushell%20Zavalaga-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rushell-vanessa-zavalaga-orozco-0614351ba/)
+[![GitHub](https://img.shields.io/badge/-Rushh-181717?style=flat&logo=github&logoColor=white)](https://github.com/RushhMax)
 
 Thank you for visiting my portfolio!
